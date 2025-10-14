@@ -6,5 +6,5 @@
 
 hysteria2://9c859345-959f-491b-b6fc-65cd7a57aeb3@104.250.239.32:49425/?sni=real.getafreenode.sbs#Fremont-GetAFreeNode
 
-hysteria2://9c859345-959f-491b-b6fc-65cd7a57aeb3@185.126.255.78:56684/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
+hysteria2://9c859345-959f-491b-b6fc-65cd7a57aeb3@185.126.255.78:48892/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
 
